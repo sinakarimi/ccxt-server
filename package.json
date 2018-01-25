@@ -1,0 +1,23 @@
+{
+  "name": "ccxt-server",
+  "version": "1.0.0",
+  "description": "A nodejs server which serves CCXT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinakarimi/ccxt-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinakarimi/ccxt-server/issues"
+  },
+  "homepage": "https://github.com/sinakarimi/ccxt-server#readme",
+  "dependencies": {
+    "ccxt": "^1.10.840",
+    "express": "^4.16.2"
+  }
+}
